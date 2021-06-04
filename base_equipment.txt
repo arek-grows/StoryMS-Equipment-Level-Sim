@@ -1,0 +1,17 @@
+Equipment Name = "kons glove"
+Starting Level = 7
+Ending Level = 10
+STR = 83
+DEX = 89
+INT = 0
+LUK = 0
+HP = 0
+MP = 84
+WEAPON ATTACK = 33
+MAGIC ATTACK = 0
+WEAPON DEFENSE = 105
+MAGIC DEFENSE = 0
+ACCURACY = 0
+AVOIDABILITY = 0
+SPEED = 0
+JUMP = 0
