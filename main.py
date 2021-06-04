@@ -3,7 +3,6 @@ import levelsim
 import pickle
 import os
 import analyzation
-import random
 
 
 # TODO: error testing (file doesnt exit, invalid characters)
