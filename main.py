@@ -1,3 +1,5 @@
+# this project is a mess, my 2nd ever python project, after game of life :)
+
 import texts
 import levelsim
 import pickle
