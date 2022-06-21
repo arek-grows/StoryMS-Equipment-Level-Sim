@@ -26,7 +26,7 @@ if an item skips all stats on a level up then all the stats are rerolled. this i
 ```
 
 # App Features
-There are two text files in the folder: "base_equipment.txt" and "levelled_equipment.txt". In "base_equipment.txt", you input the stats of the lv1 equipment you want to simulate. This is required before using the app. "levelled_equipment.txt" is an optional text file to fill out with the equipment you levelled in-game if you want to see how good your levelled equipment came out.
+There are two text files in the folder: "base_equipment.txt" and "levelled_equipment.txt". In "base_equipment.txt", you input the stats of the equipment you want to simulate. This is required before using the app. "levelled_equipment.txt" is an optional text file to fill out with the equipment you levelled in-game if you want to see how good your levelled equipment came out.
 
 1.
 ```
